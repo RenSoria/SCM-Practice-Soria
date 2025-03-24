@@ -1,2 +1,2 @@
 #Sample Text File
-Issue is NOT fixed.
+Issue is fixed.
